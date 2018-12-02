@@ -1,3 +1,4 @@
+#Python 3.6.1 [GCC 4.8.2] on linux
 from random import *
 NumExperiments=1
 import numpy
