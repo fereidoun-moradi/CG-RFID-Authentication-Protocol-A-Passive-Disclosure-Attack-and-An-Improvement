@@ -1,4 +1,4 @@
-# CG+ RFID Authentication Protocol A Passive-Disclosure-Attack and An Improvement
+# CG+ RFID Authentication Protocol: A Passive-Disclosure-Attack and An Improvement
 
 Python Implementation of a Passive Disclosure Attack against a lightweight Authentication Protocol for VANETs.
 
