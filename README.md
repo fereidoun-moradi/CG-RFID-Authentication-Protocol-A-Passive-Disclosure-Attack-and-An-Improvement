@@ -1,6 +1,6 @@
-# CG+-RFID-Authentication-Protocol-A-Passive-Disclosure-Attack-and-An-Improvement
+# CG+ RFID Authentication Protocol A Passive-Disclosure-Attack and An Improvement
 
-Implementation of a Passive Disclosure Attack on a lightweight Authentication Protocol for VANETs.
+Python Implementation of a Passive Disclosure Attack against a lightweight Authentication Protocol for VANETs.
 
 RFID system utilizes radio frequency to transmit information among Tags and Readers which adversary can effortlessly listened the information over the wireless channel. In this regard, advanced authentication protocols have been proposed with their focus on lightweight computations while preserving strong security. Recently, an revised version of RFID protocol suitable for VANETs that is called CG+ presented and the authors acclaimed that the protocol is robust against security and privacy attacks [1]. However, in this Python code, presenting a passive disclosure attack with the complexity of O(216) that discloses all secret parameters of the CG+, we show that this protocol fails to provide the claimed level of security. Moreover, we inhibit mentioned shortcoming via applying some minor modifications to present an EPC-C1G2 RFID authentication protocol, so that it satisfies the optimal security bound. 
 
