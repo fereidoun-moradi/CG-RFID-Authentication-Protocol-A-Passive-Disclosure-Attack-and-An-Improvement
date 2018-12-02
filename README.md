@@ -10,7 +10,7 @@ The presented attack against modified version of the protocol shows that the com
 [1]. Moradi, F., Mala, H., and Ladani, B. T. (2015). Security Analysis and Strengthening of an RFID Lightweight Authentication Protocol Suitable for VANETs. Springer, Wireless Personal Communications, 83(4), pp. 2607-2621.
 
 
-# By considerig following sample values to run the protocol, it outputs discovered parameters. 
+# By considerig following sample values to run, it outputs discovered parameters. 
 SSK<- 7225  
 ID<- 49347   
 seed<- 13498   
